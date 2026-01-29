@@ -1,0 +1,26 @@
+Rank,Country,Total Consumption (TWh),Coal (%),Coal_Source_Type,Oil (%),Oil_Source_Type,Natural Gas (%),Natural_Gas_Source_Type,Nuclear (%),Nuclear_Source_Type,Hydro (%),Hydro_Source_Type,Other Renewables (%),Other_Renewables_Source_Type,Biomass/Traditional (%),Biomass_Source_Type,Per Capita (MWh/person)
+1,China,179000,56,Thermal,20,Thermal/Chemical,9,Thermal,2,Thermal,3,Kinetic,12,Photonic/Kinetic,0,Chemical/Thermal,12.7
+2,United States,93000,10,Thermal,28,Thermal/Chemical,33,Thermal,9,Thermal,2,Kinetic,12,Photonic/Kinetic,0,Chemical/Thermal,27.3
+3,India,39000,44,Thermal,23,Thermal/Chemical,6,Thermal,2,Thermal,1,Kinetic,6,Photonic/Kinetic,24,Chemical/Thermal,2.8
+4,Russia,31000,12,Thermal,21,Thermal/Chemical,54,Thermal,7,Thermal,5,Kinetic,1,Photonic/Kinetic,0,Chemical/Thermal,21.4
+5,Japan,17500,27,Thermal,37,Thermal/Chemical,23,Thermal,3,Thermal,1,Kinetic,7,Photonic/Kinetic,0,Chemical/Thermal,13.9
+6,Germany,12800,17,Thermal,35,Thermal/Chemical,26,Thermal,1,Thermal,0,Kinetic,19,Photonic/Kinetic,0,Chemical/Thermal,15.3
+7,Brazil,12500,5,Thermal,32,Thermal/Chemical,12,Thermal,1,Thermal,23,Kinetic,22,Photonic/Kinetic,5,Chemical/Thermal,5.8
+8,South Korea,11800,29,Thermal,40,Thermal/Chemical,19,Thermal,11,Thermal,0,Kinetic,1,Photonic/Kinetic,0,Chemical/Thermal,22.9
+9,Canada,11500,4,Thermal,32,Thermal/Chemical,31,Thermal,7,Thermal,25,Kinetic,4,Photonic/Kinetic,0,Chemical/Thermal,29.2
+10,Iran,10800,0,Thermal,28,Thermal/Chemical,70,Thermal,1,Thermal,1,Kinetic,0,Photonic/Kinetic,0,Chemical/Thermal,12.5
+11,Saudi Arabia,9800,0,Thermal,63,Thermal/Chemical,37,Thermal,0,Thermal,0,Kinetic,0,Photonic/Kinetic,0,Chemical/Thermal,27.5
+12,France,8800,1,Thermal,30,Thermal/Chemical,15,Thermal,38,Thermal,2,Kinetic,12,Photonic/Kinetic,0,Chemical/Thermal,12.9
+13,Indonesia,8600,37,Thermal,32,Thermal/Chemical,11,Thermal,0,Thermal,2,Kinetic,0,Photonic/Kinetic,17,Chemical/Thermal,3.1
+14,Mexico,8100,7,Thermal,45,Thermal/Chemical,39,Thermal,1,Thermal,2,Kinetic,5,Photonic/Kinetic,0,Chemical/Thermal,6.2
+15,United Kingdom,7800,4,Thermal,33,Thermal/Chemical,38,Thermal,7,Thermal,1,Kinetic,15,Photonic/Kinetic,0,Chemical/Thermal,11.4
+16,Turkey,7200,28,Thermal,27,Thermal/Chemical,28,Thermal,0,Thermal,6,Kinetic,9,Photonic/Kinetic,0,Chemical/Thermal,8.4
+17,Italy,6700,4,Thermal,34,Thermal/Chemical,42,Thermal,0,Thermal,5,Kinetic,13,Photonic/Kinetic,0,Chemical/Thermal,11.2
+18,Australia,6300,30,Thermal,30,Thermal/Chemical,27,Thermal,0,Thermal,2,Kinetic,9,Photonic/Kinetic,0,Chemical/Thermal,23.8
+19,Thailand,5900,11,Thermal,32,Thermal/Chemical,57,Thermal,0,Thermal,2,Kinetic,0,Photonic/Kinetic,0,Chemical/Thermal,8.4
+20,Taiwan,5600,45,Thermal,25,Thermal/Chemical,22,Thermal,5,Thermal,1,Kinetic,2,Photonic/Kinetic,0,Chemical/Thermal,23.5
+21,South Africa,5500,72,Thermal,19,Thermal/Chemical,0,Thermal,4,Thermal,1,Kinetic,2,Photonic/Kinetic,0,Chemical/Thermal,9.1
+22,Spain,5200,5,Thermal,42,Thermal/Chemical,24,Thermal,11,Thermal,2,Kinetic,14,Photonic/Kinetic,0,Chemical/Thermal,11
+23,Poland,4800,68,Thermal,21,Thermal/Chemical,9,Thermal,0,Thermal,0,Kinetic,2,Photonic/Kinetic,0,Chemical/Thermal,12.6
+24,Egypt,4700,0,Thermal,38,Thermal/Chemical,59,Thermal,0,Thermal,2,Kinetic,1,Photonic/Kinetic,0,Chemical/Thermal,4.3
+25,Ukraine,4500,22,Thermal,11,Thermal/Chemical,33,Thermal,30,Thermal,2,Kinetic,2,Photonic/Kinetic,0,Chemical/Thermal,10.8
